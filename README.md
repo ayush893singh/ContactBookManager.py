@@ -1,4 +1,4 @@
-Contact Book Manager
+# Contact Book Manager
 
 About the Project
 
@@ -6,7 +6,7 @@ Contact Book Manager is a simple Python-based application that allows users to m
 
 The application stores contact information in a JSON file, so saved contacts remain available after the program is closed.
 
-Features
+# Features
 
 - Add new contacts
 - View all saved contacts
@@ -17,7 +17,7 @@ Features
 - Handle invalid menu choices
 - Store data using JSON file handling
 
-Technologies Used
+# Technologies Used
 
 - Python
 - JSON
@@ -25,12 +25,12 @@ Technologies Used
 - Dictionaries
 - Functions
 
-Requirements
+# Requirements
 
 - Python 3.x
 - No external libraries required
 
-Project Structure
+# Project Structure
 
 Contact-Book-Manager/
 ├── ContactBookManager.py
@@ -39,7 +39,7 @@ Contact-Book-Manager/
 
 The "contacts.json" file is created automatically when contacts are saved.
 
-How to Run
+# How to Run
 
 1. Download or clone this repository.
 2. Open the project folder.
@@ -50,7 +50,7 @@ python ContactBookManager.py
 4. Select an option from the menu.
 5. Add and manage your contacts.
 
-Menu Options
+# Menu Options
 
 Option| Description
 1| Add Contact
@@ -60,13 +60,13 @@ Option| Description
 5| Delete Contact
 6| Exit
 
-Data Storage
+# Data Storage
 
 Contacts are stored locally in "contacts.json" using JSON format. This allows the program to load saved contacts whenever it starts.
 
 Keep the JSON file in the same folder as the Python program to access previously saved contacts.
 
-Learning Objectives
+# Learning Objectives
 
 This project helps beginners practice:
 
@@ -77,7 +77,7 @@ This project helps beginners practice:
 - JSON data storage
 - Basic error handling
 
-Future Improvements
+# Future Improvements
 
 - Validate phone numbers
 - Prevent duplicate contacts
@@ -86,12 +86,12 @@ Future Improvements
 - Add a graphical user interface
 - Add password protection
 
-Author
+# Author
 
 Ayush Singh
 
 GitHub: https://github.com/ayush893singh
 
-License
+# License
 
 This project is available for educational and personal use.
