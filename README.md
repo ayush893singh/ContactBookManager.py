@@ -30,15 +30,6 @@ The application stores contact information in a JSON file, so saved contacts rem
 - Python 3.x
 - No external libraries required
 
-# Project Structure
-
-Contact-Book-Manager/
-├── ContactBookManager.py
-├── contacts.json
-└── README.md
-
-The "contacts.json" file is created automatically when contacts are saved.
-
 # How to Run
 
 1. Download or clone this repository.
