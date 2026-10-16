@@ -78,10 +78,7 @@ This project helps beginners practice:
 - Add password protection
 
 # Author
-
-Ayush Singh
-
-GitHub: https://github.com/ayush893singh
+Ayush Singh GitHub:https://github.com/ayush893singh
 
 # License
 
