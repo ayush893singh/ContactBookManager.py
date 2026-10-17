@@ -6,6 +6,10 @@ Contact Book Manager is a simple Python-based application that allows users to m
 
 The application stores contact information in a JSON file, so saved contacts remain available after the program is closed.
 
+# License
+
+This project is available for educational and personal use.
+
 # Features
 
 - Add new contacts
@@ -80,6 +84,4 @@ This project helps beginners practice:
 # Author
 Ayush Singh GitHub:https://github.com/ayush893singh
 
-# License
 
-This project is available for educational and personal use.
