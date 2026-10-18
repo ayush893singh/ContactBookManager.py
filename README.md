@@ -1,6 +1,6 @@
 # Contact Book Manager
 
-About the Project
+# About the Project
 
 Contact Book Manager is a simple Python-based application that allows users to manage their contacts. Users can add, view, search, update, and delete contacts through a menu-driven interface.
 
@@ -83,5 +83,3 @@ This project helps beginners practice:
 
 # Author
 Ayush Singh GitHub:https://github.com/ayush893singh
-
-
